@@ -1,3 +1,9 @@
+Database :
+
+1] Launch MySQL Workbench on your computer.
+2] Create Database,Table and Stored Procedure in that.
+
+
 Below are attached screenshots.
 
 
